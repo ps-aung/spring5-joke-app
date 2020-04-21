@@ -1,7 +1,7 @@
 /**
  * 
  */
-package psa.springframework.joke.Controller;
+package psa.springframework.joke.controllers;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
